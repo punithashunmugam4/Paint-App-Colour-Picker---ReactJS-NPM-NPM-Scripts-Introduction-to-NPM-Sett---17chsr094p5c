@@ -11,8 +11,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "homepage":"https://punithashunmugam4.github.io/",
   "dependencies": {
     "css-loader": "^4.3.0",
+    "gh-pages": "^4.0.0",
     "jest-junit": "^11.1.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",

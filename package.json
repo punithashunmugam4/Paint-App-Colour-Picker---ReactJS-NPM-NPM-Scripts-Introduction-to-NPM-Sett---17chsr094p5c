@@ -6,14 +6,12 @@
   "scripts": {
     "test": "jest",
     "start": "webpack-dev-server --mode development --watch --open --hot",
-    "build": "webpack --mode production",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "build": "webpack --mode production"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage":"https://punithashunmugam4.github.io/",
+
   "dependencies": {
     "css-loader": "^4.3.0",
     "gh-pages": "^4.0.0",
